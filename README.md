@@ -9,4 +9,8 @@ wget -r -np -k https://web.archive.org/web/20220522105333/https://openlongevity.
 ```
 
 ## Notes
-The site is static. Images are missing, but the articles' text is saved, and the internal links work, so you can browse it like a regular website.
+The site is static. Images are missing, but the articles' text is saved, and most part of the internal links work, so you can browse it like a regular website.
+
+You can clone this repository or download a .zip archive:
+
+[Download](openlongevity.com.zip)
